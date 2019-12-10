@@ -1,0 +1,30 @@
+[
+  {
+    "MenuType": "Page",
+    "Title": "Mind Blow",
+    "Icon": "/Assets/DataImages/PlaylistIcon160.png",
+    "Target": "MindBlowListPage",
+    "_id": "2e80743b-1b76-4e2c-8517-8667861df249"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "FAK",
+    "Icon": "/Assets/DataImages/PlaylistIcon160-1.png",
+    "Target": "FAKListPage",
+    "_id": "f2c7ce44-80fd-4939-99cb-383527861b01"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "54321",
+    "Icon": "/Assets/DataImages/PlaylistIcon160-2.png",
+    "Target": "Section1ListPage",
+    "_id": "c55398e6-2f8b-46cf-bbaa-8e7a664df9b3"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Weirdos of the Month",
+    "Icon": "/Assets/DataImages/PlaylistIcon160-3.png",
+    "Target": "WeirdosOfTheMonthListPage",
+    "_id": "3422d6cb-c07c-406f-836d-50bfd184d3e2"
+  }
+]
